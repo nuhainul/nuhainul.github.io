@@ -1,2 +1,2 @@
-# nuhu.github.io
+# nuhainul.github.io
 Nuhu Ainul Islam's HTML-CSS Projects or somethin'...
