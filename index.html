@@ -11,14 +11,36 @@
 
 	<!-- <link rel="stylesheet" href="./css/styles.css"> -->
 	<style>
-		.head-div, section {
+		body {
+			/* font-family: sans-serif; */
+			font-size: larger;
+		}
+
+		header,
+		section,
+		footer {
 			margin: 20px auto;
 			width: 90%;
 			text-align: center;
 		}
-		img{
-			max-width: 90%;
+
+		.header-container {
+			display: flex;
+			justify-content: center;
+			align-items: center;
 		}
+
+		.avatar img {
+			width: 150px;
+		}
+
+		img {
+			max-width: 80%;
+		}
+
+		/* p {
+			font-size: larger;
+		} */
 	</style>
 
 </head>
@@ -28,14 +50,17 @@
 		<!-- <div class="header">
 				<nav class="menu">#</nav>
 			</div> -->
-
-		<div class="head-div">
-			<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1600327324475/wksH1_YQT.png?w=400&h=400&fit=crop&crop=faces&auto=compress,format&format=webp"
-				alt="nuhainul avatar">
-			<h1 class="">Nuhu Ainul Islam</h1>
-			<p class="">I code, I teach, I write.</p>
-			<hr>
+		<div class="header-container">
+			<div class="avatar">
+				<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1600327324475/wksH1_YQT.png?w=400&h=400&fit=crop&crop=faces&auto=compress,format&format=webp"
+					class="avatar" alt="nuhainul avatar">
+			</div>
+			<div class="">
+				<h1 class="">Nuhu Ainul Islam</h1>
+				<p class="">I code, I teach, I write.</p>
+			</div>
 		</div>
+		<hr>
 	</header>
 
 	<!-- <article>
@@ -49,19 +74,19 @@
 		</article> -->
 
 	<section class="">
-		<div class="">
-			<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1598979420932/ywWEAfz7l.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
-				alt="lighthouse">
-		</div>
-	</section>
-
-	<section class="">
 		<h2 class="">There lived a boy who wanted to be a sailor</h2>
+
 		<p class="">The boy came from the suburb of the Sundarbans. All his childhood he wanted to be a sailor. Instead,
 			he got stuck in a lighthouse where he observes the sunsets.</p>
+
 		<p class="">This is called life, perhaps, he thinks. Or, maybe someday he will really fly over the seven seas.
 			Freely. With joyous excitement.</p>
+
+		<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1598979420932/ywWEAfz7l.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
+			alt="lighthouse">
+
 		<p class="">Did he want to be a sailor indeed? Or, he just wanted to be a poet? A bard, perhaps?</p>
+
 		<p class="">Being a poet is not less analogous to being a sailor, he thinks. And yet he sits on the shore to see
 			the sun sets over the seas.</p>
 		<div class="">
@@ -69,9 +94,9 @@
 				alt="roles or goals or something">
 		</div>
 		<div class="">
-			<p class="">Copied from my <a
+			<small>Copied from my <a
 					href="https://nuhainul.hashnode.dev/there-lived-a-boy-who-wanted-to-be-a-sailor"
-					class="">HashNode</a></p>
+					class="">HashNode</a></small>
 		</div>
 	</section>
 
