@@ -7,4 +7,4 @@ Nuhu Ainul Islam's HTML-CSS Projects or somethin'...
 ## Warning 
 Don't install Jekyll in the main github.io pages ever
 
-[portfolio.md](https://nuhainul.github.io/portfolio.md)
+[portfolio.md](https://nuhainul.github.io/portfolio)
