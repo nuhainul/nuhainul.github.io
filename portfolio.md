@@ -3,7 +3,7 @@
 # { project.lists }
 <!-- the followings are copied from Samiul Bhai's git, edit it as per your need -->
 
-| Project Name                    | GitHUb Repository Link                                        | Live Site Link                                                   |
+| Project Name                    | GitHub Repo Link                                        | Live Site Link                                                   |
 | ------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- |
 <!-- | Influencer Gear [tailwind]      | <https://github.com/samiulalimsaad/Influencer-gear-tailwind>  | <https://influencer-gear-tailwind.vercel.app>                    |
 | Influencer Gear [bootstrap]     | <https://github.com/samiulalimsaad/Influencer-gear-bootstrap> | <https://influencer-gear-bootstrap.vercel.app>                   |
