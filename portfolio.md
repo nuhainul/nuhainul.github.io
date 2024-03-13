@@ -1,6 +1,6 @@
 # portfolio.md
 
-# { project.lists }
+# { Project.List }
 <!-- the followings are copied from Samiul Bhai's git, edit it as per your need -->
 
 | Project Name                    | GitHub Repo Link                                        | Live Site Link                                                   |
