@@ -1,11 +1,11 @@
 # portfolio.md
 
 # { Project.List }
-<!-- the followings are copied from Samiul Bhai's git, edit it as per your need -->
+<!-- the followings are copied from Samiul Bhai's git, edit it as per your need 
 
 | Project Name                    | GitHub Repo Link                                        | Live Site Link                                                   |
 | ------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- |
-<!-- | Influencer Gear [tailwind]      | <https://github.com/samiulalimsaad/Influencer-gear-tailwind>  | <https://influencer-gear-tailwind.vercel.app>                    |
+| Influencer Gear [tailwind]      | <https://github.com/samiulalimsaad/Influencer-gear-tailwind>  | <https://influencer-gear-tailwind.vercel.app>                    |
 | Influencer Gear [bootstrap]     | <https://github.com/samiulalimsaad/Influencer-gear-bootstrap> | <https://influencer-gear-bootstrap.vercel.app>                   |
 | Leader Board [tailwind]         | <https://github.com/samiulalimsaad/leader-board-tailwind>     | <https://leader-board-tailwind.vercel.app>                       |
 | SpaceX Portfolio [CSS]          | <https://github.com/samiulalimsaad/ph-portfolio>              | <https://ph-portfolio-saadraj.vercel.app>                        |
@@ -16,4 +16,6 @@
 | DOM placeholder User [tailwind] | <https://github.com/samiulalimsaad/dom-placeholder-user>      | <https://https://dom-placeholder-user-samiulalimsaad.vercel.app> |
 | Phone Bazar [tailwind]          | <https://github.com/samiulalimsaad/phone-bazar>               | <https://phone-bazar-samiulalimsaad.vercel.app>                  |
 | Insta Sohor [tailwind]          | <https://github.com/samiulalimsaad/insta-sohor>               | <https://insta-sohor-samiulalimsaad.vercel.app>                  |
-| Phone Shop [react, tailwind]    | <https://github.com/samiulalimsaad/phone-shop-react>          | <https://phone-shop-react-samiulalimsaad.vercel.app>             | -->
+| Phone Shop [react, tailwind]    | <https://github.com/samiulalimsaad/phone-shop-react>          | <https://phone-shop-react-samiulalimsaad.vercel.app>             | 
+
+-->
