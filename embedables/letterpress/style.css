@@ -1,1 +1,13 @@
+@font-face {
+    font-family: 'Li Subha Letterpress Unicode';
+    src: url('LiSubhaLetterpressUnicode.eot');
+    src: url('LiSubhaLetterpressUnicode.eot?#iefix') format('embedded-opentype'),
+        url('LiSubhaLetterpressUnicode.woff2') format('woff2'),
+        url('LiSubhaLetterpressUnicode.woff') format('woff'),
+        url('LiSubhaLetterpressUnicode.ttf') format('truetype'),
+        url('LiSubhaLetterpressUnicode.svg#LiSubhaLetterpressUnicode') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
